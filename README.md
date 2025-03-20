@@ -21,13 +21,24 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkolpe&layout=compact&theme=radical)  
 
 ## 🔥 GitHub Streak Poster  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Amitkolpe&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amitkolpe&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=Current%20Streak&fire=🔥&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727&sideLabels=DD2727&dates=FFFFFF&longestStreakLabel=Longest%20Streak)](https://git.io/streak-stats)
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Amitkolpe)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ameskolpe7)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Amitkolpe/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amitkolpe7)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Amitkolpe">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/Ameskolpe7">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://leetcode.com/Amitkolpe/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://instagram.com/amitkolpe7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 📧 **Email:** your-kolpeamit6@gmail.com  
 
