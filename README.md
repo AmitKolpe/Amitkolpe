@@ -19,7 +19,9 @@
 ## 📊 GitHub Stats  
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitkolpe&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkolpe&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Amitkolpe&theme=radical&hide_border=false)
+
+## 🔥 GitHub Streak Poster  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amitkolpe&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Amitkolpe)  
