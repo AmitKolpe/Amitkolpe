@@ -1,4 +1,5 @@
-# 💻 Welcome to My GitHub Profile! 🚀
+# 💻 Welcome to My GitHub Profile! 🚀  
+![Profile views](https://komarev.com/ghpvc/?username=Amitkolpe&color=blue)
 
 ## 👨‍🎓 About Me
 - 👋 Hi, I'm **Amit Kolpe**  
